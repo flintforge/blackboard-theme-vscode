@@ -1,6 +1,6 @@
-# Blackboard Theme for VS Code
+* Blackboard Theme for VS Code
 
-https://themes.vscode.one/theme/Flintforge/F9MtkvEr
+https://github.com/flintforge/blackboard-theme-vscode
 
 A deep dark blue theme that traveled from Textmate to Sublime and
 Emacs, with a slight influence from Doom. 
@@ -11,4 +11,5 @@ https://emacsconf.org/2021/talks/design/
 
 https://themes.vscode.one/theme/Flintforge/F9MtkvEr
 
+: Settings > Window: Title Bar Style
 
