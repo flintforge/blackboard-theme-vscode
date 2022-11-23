@@ -3,7 +3,7 @@ https://github.com/flintforge/blackboard-theme-vscode
 [[https://themes.vscode.one/theme/Flintforge/F9MtkvEr][https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/8nKUHg9XCOWzGLJwuCaICb4fT5I3/F9MtkvEr-default.jpeg]]
 https://themes.vscode.one/theme/Flintforge/F9MtkvEr
 
-A deep dark blue theme that traveled from Textmate to Sublime and
+A deep dark blue theme that travelled from Textmate to Sublime and
 Emacs, with the slight influence of Doom. 
 
 Worth mentionning Rougier NΛNO for those interested
