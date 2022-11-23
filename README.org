@@ -1,15 +1,14 @@
 * Blackboard Theme for VS Code
-
 https://github.com/flintforge/blackboard-theme-vscode
-
-A deep dark blue theme that traveled from Textmate to Sublime and
-Emacs, with a slight influence from Doom. 
-
-Worth mentionning Rougier NΛNO for those interested
-into text editor design :  
-https://emacsconf.org/2021/talks/design/
-
+[[https://themes.vscode.one/theme/Flintforge/F9MtkvEr][https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/8nKUHg9XCOWzGLJwuCaICb4fT5I3/F9MtkvEr-default.jpeg]]
 https://themes.vscode.one/theme/Flintforge/F9MtkvEr
 
+A deep dark blue theme that traveled from Textmate to Sublime and
+Emacs, with the slight influence of Doom. 
+
+Worth mentionning Rougier NΛNO for those interested
+into text editor design : https://emacsconf.org/2021/talks/design/
+
+To make titlebar custtomization effective:
 : Settings > Window: Title Bar Style
 
