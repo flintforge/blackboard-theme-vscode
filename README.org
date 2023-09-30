@@ -9,6 +9,6 @@ Emacs, with the slight influence of Doom.
 Worth mentionning Rougier NΛNO for those interested
 into text editor design : https://emacsconf.org/2021/talks/design/
 
-To make titlebar custtomization effective:
+To make titlebar customization effective:
 : Settings > Window: Title Bar Style
 
